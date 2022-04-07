@@ -4,7 +4,7 @@
 
 An introduction to security awareness; why its important, the impact of being attacked, different threat actors and basic account security.
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ## 🟥 Task-1 Introduction to Security Awareness
 
