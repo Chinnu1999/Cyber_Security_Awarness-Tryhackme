@@ -18,7 +18,7 @@ This task will cover password security, as well as other measures you can take t
 ## What Makes A Strong Password?
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/94435318/162370878-7cc91e0b-bfc5-4c28-81a4-10bbc8d9d59a.png">
+  <img src="https://user-images.githubusercontent.com/94435318/162370878-7cc91e0b-bfc5-4c28-81a4-10bbc8d9d59a.png">
 </p>
 
 Advice on what constitutes a strong password has changed over time. In the past, people were advised to choose complex passwords that were easy to remember, for example:
